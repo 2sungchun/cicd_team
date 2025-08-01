@@ -9,6 +9,7 @@ import lombok.extern.slf4j.Slf4j;
 @Slf4j
 @RestController
 public class CICDCont {
+  // CICD 테스트용 코드
   // http://localhost:9091/cicd?sw=-1
   // http://localhost:9091/cicd?sw=0
   // http://localhost:9091/cicd?sw=1
